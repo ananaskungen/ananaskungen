@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- :briefcase:	 I’m currently working on a Laravel Project
+- :briefcase:	 I’m currently working on a Wordpress Project
 - :books: Currently studying Full-Stack Web Development at Medieinstitutet
-- 🌱 I’m currently learning Laravel, PHP Object Oriented Programming and some Python
+- 🌱 I’m currently learning Wordpress, Creating custom themes & plugins in Wordpress :).
